@@ -1,0 +1,799 @@
+{
+  "id": "chuoichienhfb",
+  "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/chuoichientv.json",
+  "name": "Chuoi Chien TV",
+  "color": "#003A17",
+  "description": "Cap nhat truc tiep tu Chuoi Chien TV",
+  "image": {
+    "url": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/chuoichien.png"
+  },
+  "groups": [
+    {
+      "id": "live",
+      "name": "TRUC TIEP CHUOI CHIEN",
+      "display": "vertical",
+      "grid_number": 2,
+      "channels": [
+        {
+          "id": "69b2a53d9cd9cc711086a4bb",
+          "name": "Napoli vs Lecce",
+          "labels": [
+            {
+              "position": "bottom-center",
+              "text": "00h00",
+              "color": "#FF0000",
+              "text_color": "#FFFFFF"
+            },
+            {
+              "position": "top-left",
+              "text": "Napoli",
+              "color": "#80000000",
+              "text_color": "#FFFFFF"
+            },
+            {
+              "position": "top-right",
+              "text": "Lecce",
+              "color": "#80000000",
+              "text_color": "#FFFFFF"
+            }
+          ],
+          "image": {
+            "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/69b2a53d9cd9cc711086a4bb.png",
+            "height": 360,
+            "width": 640,
+            "display": "cover"
+          },
+          "type": "single",
+          "display": "thumbnail-only",
+          "sources": [
+            {
+              "id": "src-69b2a53d9cd9cc711086a4bb",
+              "name": "Chuoi Chien",
+              "contents": [
+                {
+                  "id": "c-69b2a53d9cd9cc711086a4bb",
+                  "name": "Napoli vs Lecce",
+                  "streams": [
+                    {
+                      "id": "69b2a53d9cd9cc711086a4bb_0",
+                      "name": "BLV Chuối Hột - HD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b2a53d9cd9cc711086a4bb.json"
+                      }
+                    },
+                    {
+                      "id": "69b2a53d9cd9cc711086a4bb_1",
+                      "name": "BLV Chuối Hột - HD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b2a53d9cd9cc711086a4bb.json"
+                      }
+                    },
+                    {
+                      "id": "69b2a53d9cd9cc711086a4bb_2",
+                      "name": "BLV Chuối Hột - FHD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b2a53d9cd9cc711086a4bb.json"
+                      }
+                    },
+                    {
+                      "id": "69b2a53d9cd9cc711086a4bb_3",
+                      "name": "BLV Chuối Hột - FHD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b2a53d9cd9cc711086a4bb.json"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "69b2a53d9cd9cc711086a4bd",
+          "name": "Arsenal vs Everton",
+          "labels": [
+            {
+              "position": "bottom-center",
+              "text": "00h30",
+              "color": "#FF0000",
+              "text_color": "#FFFFFF"
+            },
+            {
+              "position": "top-left",
+              "text": "Arsenal",
+              "color": "#80000000",
+              "text_color": "#FFFFFF"
+            },
+            {
+              "position": "top-right",
+              "text": "Everton",
+              "color": "#80000000",
+              "text_color": "#FFFFFF"
+            }
+          ],
+          "image": {
+            "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/69b2a53d9cd9cc711086a4bd.png",
+            "height": 360,
+            "width": 640,
+            "display": "cover"
+          },
+          "type": "single",
+          "display": "thumbnail-only",
+          "sources": [
+            {
+              "id": "src-69b2a53d9cd9cc711086a4bd",
+              "name": "Chuoi Chien",
+              "contents": [
+                {
+                  "id": "c-69b2a53d9cd9cc711086a4bd",
+                  "name": "Arsenal vs Everton",
+                  "streams": [
+                    {
+                      "id": "69b2a53d9cd9cc711086a4bd_0",
+                      "name": "Chuối Tây - HD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b2a53d9cd9cc711086a4bd.json"
+                      }
+                    },
+                    {
+                      "id": "69b2a53d9cd9cc711086a4bd_1",
+                      "name": "Chuối Tây - HD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b2a53d9cd9cc711086a4bd.json"
+                      }
+                    },
+                    {
+                      "id": "69b2a53d9cd9cc711086a4bd_2",
+                      "name": "Chuối Tây - FHD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b2a53d9cd9cc711086a4bd.json"
+                      }
+                    },
+                    {
+                      "id": "69b2a53d9cd9cc711086a4bd_3",
+                      "name": "Chuối Tây - FHD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b2a53d9cd9cc711086a4bd.json"
+                      }
+                    },
+                    {
+                      "id": "69b2a53d9cd9cc711086a4bd_4",
+                      "name": "Chuối Tây - SD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b2a53d9cd9cc711086a4bd.json"
+                      }
+                    },
+                    {
+                      "id": "69b2a53d9cd9cc711086a4bd_5",
+                      "name": "Chuối Tây - SD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b2a53d9cd9cc711086a4bd.json"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "69b2a53d9cd9cc711086a4be",
+          "name": "Chelsea vs Newcastle",
+          "labels": [
+            {
+              "position": "bottom-center",
+              "text": "00h30",
+              "color": "#FF0000",
+              "text_color": "#FFFFFF"
+            },
+            {
+              "position": "top-left",
+              "text": "Chelsea",
+              "color": "#80000000",
+              "text_color": "#FFFFFF"
+            },
+            {
+              "position": "top-right",
+              "text": "Newcastle",
+              "color": "#80000000",
+              "text_color": "#FFFFFF"
+            }
+          ],
+          "image": {
+            "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/69b2a53d9cd9cc711086a4be.png",
+            "height": 360,
+            "width": 640,
+            "display": "cover"
+          },
+          "type": "single",
+          "display": "thumbnail-only",
+          "sources": [
+            {
+              "id": "src-69b2a53d9cd9cc711086a4be",
+              "name": "Chuoi Chien",
+              "contents": [
+                {
+                  "id": "c-69b2a53d9cd9cc711086a4be",
+                  "name": "Chelsea vs Newcastle",
+                  "streams": [
+                    {
+                      "id": "69b2a53d9cd9cc711086a4be_0",
+                      "name": "A Tích - HD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b2a53d9cd9cc711086a4be.json"
+                      }
+                    },
+                    {
+                      "id": "69b2a53d9cd9cc711086a4be_1",
+                      "name": "A Tích - HD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b2a53d9cd9cc711086a4be.json"
+                      }
+                    },
+                    {
+                      "id": "69b2a53d9cd9cc711086a4be_2",
+                      "name": "A Tích - FHD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b2a53d9cd9cc711086a4be.json"
+                      }
+                    },
+                    {
+                      "id": "69b2a53d9cd9cc711086a4be_3",
+                      "name": "A Tích - FHD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b2a53d9cd9cc711086a4be.json"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "69b2a53d9cd9cc711086a4c8",
+          "name": "Al Khaleej Saihat vs Al-Nassr",
+          "labels": [
+            {
+              "position": "bottom-center",
+              "text": "02h00",
+              "color": "#FF0000",
+              "text_color": "#FFFFFF"
+            },
+            {
+              "position": "top-left",
+              "text": "Al Khaleej S..",
+              "color": "#80000000",
+              "text_color": "#FFFFFF"
+            },
+            {
+              "position": "top-right",
+              "text": "Al-Nassr",
+              "color": "#80000000",
+              "text_color": "#FFFFFF"
+            }
+          ],
+          "image": {
+            "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/69b2a53d9cd9cc711086a4c8.png",
+            "height": 360,
+            "width": 640,
+            "display": "cover"
+          },
+          "type": "single",
+          "display": "thumbnail-only",
+          "sources": [
+            {
+              "id": "src-69b2a53d9cd9cc711086a4c8",
+              "name": "Chuoi Chien",
+              "contents": [
+                {
+                  "id": "c-69b2a53d9cd9cc711086a4c8",
+                  "name": "Al Khaleej Saihat vs Al-Nassr",
+                  "streams": [
+                    {
+                      "id": "69b2a53d9cd9cc711086a4c8_0",
+                      "name": "Chuối Nướng - HD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b2a53d9cd9cc711086a4c8.json"
+                      }
+                    },
+                    {
+                      "id": "69b2a53d9cd9cc711086a4c8_1",
+                      "name": "Chuối Nướng - HD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b2a53d9cd9cc711086a4c8.json"
+                      }
+                    },
+                    {
+                      "id": "69b2a53d9cd9cc711086a4c8_2",
+                      "name": "Chuối Nướng - FHD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b2a53d9cd9cc711086a4c8.json"
+                      }
+                    },
+                    {
+                      "id": "69b2a53d9cd9cc711086a4c8_3",
+                      "name": "Chuối Nướng - FHD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b2a53d9cd9cc711086a4c8.json"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "69b2a53d9cd9cc711086a4bc",
+          "name": "Udinese vs Juventus",
+          "labels": [
+            {
+              "position": "bottom-center",
+              "text": "02h45",
+              "color": "#FF0000",
+              "text_color": "#FFFFFF"
+            },
+            {
+              "position": "top-left",
+              "text": "Udinese",
+              "color": "#80000000",
+              "text_color": "#FFFFFF"
+            },
+            {
+              "position": "top-right",
+              "text": "Juve",
+              "color": "#80000000",
+              "text_color": "#FFFFFF"
+            }
+          ],
+          "image": {
+            "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/69b2a53d9cd9cc711086a4bc.png",
+            "height": 360,
+            "width": 640,
+            "display": "cover"
+          },
+          "type": "single",
+          "display": "thumbnail-only",
+          "sources": [
+            {
+              "id": "src-69b2a53d9cd9cc711086a4bc",
+              "name": "Chuoi Chien",
+              "contents": [
+                {
+                  "id": "c-69b2a53d9cd9cc711086a4bc",
+                  "name": "Udinese vs Juventus",
+                  "streams": [
+                    {
+                      "id": "69b2a53d9cd9cc711086a4bc_0",
+                      "name": "Chuối Vàng - HD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b2a53d9cd9cc711086a4bc.json"
+                      }
+                    },
+                    {
+                      "id": "69b2a53d9cd9cc711086a4bc_1",
+                      "name": "Chuối Vàng - HD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b2a53d9cd9cc711086a4bc.json"
+                      }
+                    },
+                    {
+                      "id": "69b2a53d9cd9cc711086a4bc_2",
+                      "name": "Chuối Vàng - FHD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b2a53d9cd9cc711086a4bc.json"
+                      }
+                    },
+                    {
+                      "id": "69b2a53d9cd9cc711086a4bc_3",
+                      "name": "Chuối Vàng - FHD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b2a53d9cd9cc711086a4bc.json"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "69b2a53d9cd9cc711086a4bf",
+          "name": "West Ham vs Manchester City",
+          "labels": [
+            {
+              "position": "bottom-center",
+              "text": "03h00",
+              "color": "#FF0000",
+              "text_color": "#FFFFFF"
+            },
+            {
+              "position": "top-left",
+              "text": "West Ham",
+              "color": "#80000000",
+              "text_color": "#FFFFFF"
+            },
+            {
+              "position": "top-right",
+              "text": "Man City",
+              "color": "#80000000",
+              "text_color": "#FFFFFF"
+            }
+          ],
+          "image": {
+            "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/69b2a53d9cd9cc711086a4bf.png",
+            "height": 360,
+            "width": 640,
+            "display": "cover"
+          },
+          "type": "single",
+          "display": "thumbnail-only",
+          "sources": [
+            {
+              "id": "src-69b2a53d9cd9cc711086a4bf",
+              "name": "Chuoi Chien",
+              "contents": [
+                {
+                  "id": "c-69b2a53d9cd9cc711086a4bf",
+                  "name": "West Ham vs Manchester City",
+                  "streams": [
+                    {
+                      "id": "69b2a53d9cd9cc711086a4bf_0",
+                      "name": "Chuối Tây - HD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b2a53d9cd9cc711086a4bf.json"
+                      }
+                    },
+                    {
+                      "id": "69b2a53d9cd9cc711086a4bf_1",
+                      "name": "Chuối Tây - HD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b2a53d9cd9cc711086a4bf.json"
+                      }
+                    },
+                    {
+                      "id": "69b2a53d9cd9cc711086a4bf_2",
+                      "name": "Chuối Tây - FHD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b2a53d9cd9cc711086a4bf.json"
+                      }
+                    },
+                    {
+                      "id": "69b2a53d9cd9cc711086a4bf_3",
+                      "name": "Chuối Tây - FHD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b2a53d9cd9cc711086a4bf.json"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "69b2a53d9cd9cc711086a4c4",
+          "name": "Real Madrid vs Elche",
+          "labels": [
+            {
+              "position": "bottom-center",
+              "text": "03h00",
+              "color": "#FF0000",
+              "text_color": "#FFFFFF"
+            },
+            {
+              "position": "top-left",
+              "text": "Real",
+              "color": "#80000000",
+              "text_color": "#FFFFFF"
+            },
+            {
+              "position": "top-right",
+              "text": "Elche",
+              "color": "#80000000",
+              "text_color": "#FFFFFF"
+            }
+          ],
+          "image": {
+            "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/69b2a53d9cd9cc711086a4c4.png",
+            "height": 360,
+            "width": 640,
+            "display": "cover"
+          },
+          "type": "single",
+          "display": "thumbnail-only",
+          "sources": [
+            {
+              "id": "src-69b2a53d9cd9cc711086a4c4",
+              "name": "Chuoi Chien",
+              "contents": [
+                {
+                  "id": "c-69b2a53d9cd9cc711086a4c4",
+                  "name": "Real Madrid vs Elche",
+                  "streams": [
+                    {
+                      "id": "69b2a53d9cd9cc711086a4c4_0",
+                      "name": "A Tích - HD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b2a53d9cd9cc711086a4c4.json"
+                      }
+                    },
+                    {
+                      "id": "69b2a53d9cd9cc711086a4c4_1",
+                      "name": "A Tích - HD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b2a53d9cd9cc711086a4c4.json"
+                      }
+                    },
+                    {
+                      "id": "69b2a53d9cd9cc711086a4c4_2",
+                      "name": "A Tích - FHD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b2a53d9cd9cc711086a4c4.json"
+                      }
+                    },
+                    {
+                      "id": "69b2a53d9cd9cc711086a4c4_3",
+                      "name": "A Tích - FHD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b2a53d9cd9cc711086a4c4.json"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "69b2a53d9cd9cc711086a4cd",
+          "name": "Charlotte vs Inter Miami",
+          "labels": [
+            {
+              "position": "bottom-center",
+              "text": "06h30",
+              "color": "#FF0000",
+              "text_color": "#FFFFFF"
+            },
+            {
+              "position": "top-left",
+              "text": "Charlotte",
+              "color": "#80000000",
+              "text_color": "#FFFFFF"
+            },
+            {
+              "position": "top-right",
+              "text": "Inter Miami",
+              "color": "#80000000",
+              "text_color": "#FFFFFF"
+            }
+          ],
+          "image": {
+            "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/69b2a53d9cd9cc711086a4cd.png",
+            "height": 360,
+            "width": 640,
+            "display": "cover"
+          },
+          "type": "single",
+          "display": "thumbnail-only",
+          "sources": [
+            {
+              "id": "src-69b2a53d9cd9cc711086a4cd",
+              "name": "Chuoi Chien",
+              "contents": [
+                {
+                  "id": "c-69b2a53d9cd9cc711086a4cd",
+                  "name": "Charlotte vs Inter Miami",
+                  "streams": [
+                    {
+                      "id": "69b2a53d9cd9cc711086a4cd_0",
+                      "name": "Zeman - HD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b2a53d9cd9cc711086a4cd.json"
+                      }
+                    },
+                    {
+                      "id": "69b2a53d9cd9cc711086a4cd_1",
+                      "name": "Zeman - HD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b2a53d9cd9cc711086a4cd.json"
+                      }
+                    },
+                    {
+                      "id": "69b2a53d9cd9cc711086a4cd_2",
+                      "name": "Zeman - FHD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b2a53d9cd9cc711086a4cd.json"
+                      }
+                    },
+                    {
+                      "id": "69b2a53d9cd9cc711086a4cd_3",
+                      "name": "Zeman - FHD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b2a53d9cd9cc711086a4cd.json"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "69b497149cd9cc7110242656",
+          "name": "Los Angeles Galaxy vs Sporting Kansas City",
+          "labels": [
+            {
+              "position": "bottom-center",
+              "text": "08h30",
+              "color": "#FF0000",
+              "text_color": "#FFFFFF"
+            },
+            {
+              "position": "top-left",
+              "text": "Los Angeles ..",
+              "color": "#80000000",
+              "text_color": "#FFFFFF"
+            },
+            {
+              "position": "top-right",
+              "text": "Sporting Kan..",
+              "color": "#80000000",
+              "text_color": "#FFFFFF"
+            }
+          ],
+          "image": {
+            "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/69b497149cd9cc7110242656.png",
+            "height": 360,
+            "width": 640,
+            "display": "cover"
+          },
+          "type": "single",
+          "display": "thumbnail-only",
+          "sources": [
+            {
+              "id": "src-69b497149cd9cc7110242656",
+              "name": "Chuoi Chien",
+              "contents": [
+                {
+                  "id": "c-69b497149cd9cc7110242656",
+                  "name": "Los Angeles Galaxy vs Sporting Kansas City",
+                  "streams": [
+                    {
+                      "id": "69b497149cd9cc7110242656_0",
+                      "name": "Chuối Tiêu - HD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b497149cd9cc7110242656.json"
+                      }
+                    },
+                    {
+                      "id": "69b497149cd9cc7110242656_1",
+                      "name": "Chuối Tiêu - HD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b497149cd9cc7110242656.json"
+                      }
+                    },
+                    {
+                      "id": "69b497149cd9cc7110242656_2",
+                      "name": "Chuối Tiêu - FHD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b497149cd9cc7110242656.json"
+                      }
+                    },
+                    {
+                      "id": "69b497149cd9cc7110242656_3",
+                      "name": "Chuối Tiêu - FHD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b497149cd9cc7110242656.json"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "69b497149cd9cc7110242658",
+          "name": "Los Angeles FC vs St. Louis City",
+          "labels": [
+            {
+              "position": "bottom-center",
+              "text": "09h30",
+              "color": "#FF0000",
+              "text_color": "#FFFFFF"
+            },
+            {
+              "position": "top-left",
+              "text": "Los Angeles ..",
+              "color": "#80000000",
+              "text_color": "#FFFFFF"
+            },
+            {
+              "position": "top-right",
+              "text": "St. Louis Ci..",
+              "color": "#80000000",
+              "text_color": "#FFFFFF"
+            }
+          ],
+          "image": {
+            "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/69b497149cd9cc7110242658.png",
+            "height": 360,
+            "width": 640,
+            "display": "cover"
+          },
+          "type": "single",
+          "display": "thumbnail-only",
+          "sources": [
+            {
+              "id": "src-69b497149cd9cc7110242658",
+              "name": "Chuoi Chien",
+              "contents": [
+                {
+                  "id": "c-69b497149cd9cc7110242658",
+                  "name": "Los Angeles FC vs St. Louis City",
+                  "streams": [
+                    {
+                      "id": "69b497149cd9cc7110242658_0",
+                      "name": "BLV Chuối Hột - HD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b497149cd9cc7110242658.json"
+                      }
+                    },
+                    {
+                      "id": "69b497149cd9cc7110242658_1",
+                      "name": "BLV Chuối Hột - HD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b497149cd9cc7110242658.json"
+                      }
+                    },
+                    {
+                      "id": "69b497149cd9cc7110242658_2",
+                      "name": "BLV Chuối Hột - FHD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b497149cd9cc7110242658.json"
+                      }
+                    },
+                    {
+                      "id": "69b497149cd9cc7110242658_3",
+                      "name": "BLV Chuối Hột - FHD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b497149cd9cc7110242658.json"
+                      }
+                    },
+                    {
+                      "id": "69b497149cd9cc7110242658_4",
+                      "name": "BLV Chuối Hột - SD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b497149cd9cc7110242658.json"
+                      }
+                    },
+                    {
+                      "id": "69b497149cd9cc7110242658_5",
+                      "name": "BLV Chuối Hột - SD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69b497149cd9cc7110242658.json"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notice": {
+    "id": "notice",
+    "link": "https://t.me/",
+    "icon": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/chuoichien.png",
+    "closeable": true
+  },
+  "option": {
+    "save_history": false,
+    "save_search_history": false,
+    "save_wishlist": false
+  }
+}
