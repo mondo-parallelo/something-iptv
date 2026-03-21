@@ -1,0 +1,45 @@
+#EXTM3U
+# Source  : https://live18.chuoichientv.com/
+# Updated : 2026-03-20 13:14 UTC
+# Total   : 8 tran
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/69b9e2294d41eea825cb7c3f.png" group-title="Chuoi Chien TV",[19h15] Công An TP. Hồ Chí Minh vs Trường Tươi Đồng Nai
+#EXTVLCOPT:http-referrer=https://live18.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoivang/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/69bc0fc44d41eea82534770e.png" group-title="Chuoi Chien TV",[21h00] FC Astana vs FK Tobol Kostanay
+#EXTVLCOPT:http-referrer=https://live18.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/69b9e2294d41eea825cb7c39.png" group-title="Chuoi Chien TV",[23h00] Slavia Sofia vs Botev Plovdiv
+#EXTVLCOPT:http-referrer=https://live18.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoinuong/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/69ba3e474d41eea825e77865.png" group-title="Chuoi Chien TV",[00h30] Cagliari vs Napoli
+#EXTVLCOPT:http-referrer=https://live18.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/atich/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/69ba3e474d41eea825e7786a.png" group-title="Chuoi Chien TV",[02h30] RB Leipzig vs 1899 Hoffenheim
+#EXTVLCOPT:http-referrer=https://live18.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoivang/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/69ba3e474d41eea825e77867.png" group-title="Chuoi Chien TV",[03h00] Bournemouth vs Manchester United
+#EXTVLCOPT:http-referrer=https://live18.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/69bb46ae4d41eea8251ed6ca.png" group-title="Chuoi Chien TV",[09h00] Auckland vs Macarthur
+#EXTVLCOPT:http-referrer=https://live18.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/69bc94e7db1038736f747f02.png" group-title="Chuoi Chien TV",[12h05] Hisamitsu Springs W vs Gunma Bank Green Wings W
+#EXTVLCOPT:http-referrer=https://live18.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/manze/playlist.m3u8
+
