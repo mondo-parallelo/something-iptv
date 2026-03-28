@@ -1,0 +1,82 @@
+{
+  "stream_links": [
+    {
+      "id": "1",
+      "name": "Chuối Vàng - HD1",
+      "type": "hls",
+      "url": "https://gckc0525.edgemaxcdn.org/live/chuoivang/playlist.m3u8",
+      "default": true,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Chuối Vàng - HD2",
+      "type": "hls",
+      "url": "https://cyber.chuoichien.tv/chuoivang/index.m3u8",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Chuối Vàng - HD3",
+      "type": "flv",
+      "url": "https://gckc0525.edgemaxcdn.org/live/chuoivang.flv",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Chuối Vàng - HD4",
+      "type": "flv",
+      "url": "https://cyber.chuoichien.tv/chuoivang.flv",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Chuối Vàng - SD1",
+      "type": "hls",
+      "url": "https://stream.chuoichien.tv/chuoivang/index.m3u8",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Chuối Vàng - SD2",
+      "type": "flv",
+      "url": "https://stream.chuoichien.tv/chuoivang.flv",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    }
+  ]
+}
