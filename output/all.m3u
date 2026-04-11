@@ -1,0 +1,55 @@
+#EXTM3U
+# Source  : https://live17.chuoichientv.com/
+# Updated : 2026-03-02 14:41 UTC
+# Total   : 10 tran
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/69a234a29cd9cc7110db1ddc.png" group-title="Chuoi Chien TV",[20h30] Persebaya Surabaya vs Persib Bandung
+#EXTVLCOPT:http-referrer=https://live17.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoidoo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/69a234a29cd9cc7110db1ddd.png" group-title="Chuoi Chien TV",[20h30] PSM Makassar vs Persita
+#EXTVLCOPT:http-referrer=https://live17.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoichon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/69a538069cd9cc7110cf648f.png" group-title="Chuoi Chien TV",[23h00] Ludogorets vs Lokomotiv Plovdiv
+#EXTVLCOPT:http-referrer=https://live17.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/69a234a29cd9cc7110db1dd8.png" group-title="Chuoi Chien TV",[00h30] Pisa vs Bologna
+#EXTVLCOPT:http-referrer=https://live17.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoinuong/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/69a234a29cd9cc7110db1dd9.png" group-title="Chuoi Chien TV",[02h45] Udinese vs Fiorentina
+#EXTVLCOPT:http-referrer=https://live17.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoichon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/69a234a29cd9cc7110db1dda.png" group-title="Chuoi Chien TV",[03h00] Birmingham vs Middlesbrough
+#EXTVLCOPT:http-referrer=https://live17.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/bapcai/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/69a53b099cd9cc7110d02882.png" group-title="Chuoi Chien TV",[03h00] Real Madrid vs Getafe
+#EXTVLCOPT:http-referrer=https://live17.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/69a234a29cd9cc7110db1de4.png" group-title="Chuoi Chien TV",[05h15] Estudiantes L.P. vs Velez Sarsfield
+#EXTVLCOPT:http-referrer=https://live17.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoibay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/69a456bc9cd9cc71109136b6.png" group-title="Chuoi Chien TV",[07h30] Independ. Rivadavia vs River Plate
+#EXTVLCOPT:http-referrer=https://live17.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoivang/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/69a456bc9cd9cc71109136b8.png" group-title="Chuoi Chien TV",[09h00] Korea DPR vs Uzbekistan W
+#EXTVLCOPT:http-referrer=https://live17.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/manze/playlist.m3u8
+

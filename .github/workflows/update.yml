@@ -1,0 +1,51 @@
+name: Scrape & Deploy GitHub Pages
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # Mỗi 6 tiếng
+  workflow_dispatch:          # Chạy thủ công
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0        # ← để ở đây, lần checkout DUY NHẤT
+
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          pip install curl_cffi python-dateutil Pillow playwright
+          playwright install chromium --with-deps
+
+      - name: Run Scraper
+        run: python scraper.py
+        env:
+          PYTHONIOENCODING: utf-8
+
+      - name: Show Results
+        run: |
+          echo "Stream files : $(ls stream/ 2>/dev/null | wc -l)"
+          echo "Thumbnails   : $(ls thumbs/ 2>/dev/null | wc -l)"
+          echo "M3U entries  : $(grep -c '#EXTINF' docs/all.m3u 2>/dev/null || echo 0)"
+
+      - name: Commit & Push (chỉ giữ 1 commit)
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A stream/ thumbs/ docs/ *.json
+          git checkout --orphan temp_branch
+          git add -A
+          git commit -m "Latest update $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git branch -D main
+          git branch -m main
+          git push --force origin main

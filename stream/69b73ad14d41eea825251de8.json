@@ -1,0 +1,160 @@
+{
+  "stream_links": [
+    {
+      "id": "1",
+      "name": "Zeman - HD1",
+      "type": "hls",
+      "url": "https://gckc0525.edgemaxcdn.org/live/manze/playlist.m3u8",
+      "default": true,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Zeman - HD2",
+      "type": "flv",
+      "url": "https://gckc0525.edgemaxcdn.org/live/manze.flv",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Zeman - FHD1",
+      "type": "hls",
+      "url": "https://gckc0525.edgemaxcdn.org/live/manzehd/playlist.m3u8",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Zeman - FHD2",
+      "type": "flv",
+      "url": "https://gckc0525.edgemaxcdn.org/live/manzehd.flv",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Quan Vũ - HD1",
+      "type": "hls",
+      "url": "https://gckc0525.edgemaxcdn.org/live/quanvu/playlist.m3u8",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Quan Vũ - HD2",
+      "type": "flv",
+      "url": "https://gckc0525.edgemaxcdn.org/live/quanvu.flv",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Quan Vũ - FHD1",
+      "type": "hls",
+      "url": "https://gckc0525.edgemaxcdn.org/live/quanvuhd/playlist.m3u8",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Quan Vũ - FHD2",
+      "type": "flv",
+      "url": "https://gckc0525.edgemaxcdn.org/live/quanvuhd.flv",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "BLV Chuối Hột - HD1",
+      "type": "hls",
+      "url": "https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "BLV Chuối Hột - HD2",
+      "type": "flv",
+      "url": "https://gckc0525.edgemaxcdn.org/live/chuoihot.flv",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "BLV Chuối Hột - FHD1",
+      "type": "hls",
+      "url": "https://gckc0525.edgemaxcdn.org/live/chuoihothd/playlist.m3u8",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "BLV Chuối Hột - FHD2",
+      "type": "flv",
+      "url": "https://gckc0525.edgemaxcdn.org/live/chuoihothd.flv",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    }
+  ]
+}
