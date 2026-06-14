@@ -1,0 +1,160 @@
+{
+  "stream_links": [
+    {
+      "id": "1",
+      "name": "Chuối Đồng - HD1",
+      "type": "hls",
+      "url": "https://gckc0525.edgemaxcdn.org/live/chuoidong/playlist.m3u8",
+      "default": true,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Chuối Đồng - HD2",
+      "type": "flv",
+      "url": "https://gckc0525.edgemaxcdn.org/live/chuoidong.flv",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Chuối Đồng - FHD1",
+      "type": "hls",
+      "url": "https://gckc0525.edgemaxcdn.org/live/chuoidonghd/playlist.m3u8",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Chuối Đồng - FHD2",
+      "type": "flv",
+      "url": "https://gckc0525.edgemaxcdn.org/live/chuoidonghd.flv",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Anh Quất - HD1",
+      "type": "hls",
+      "url": "https://gckc0525.edgemaxcdn.org/live/anhquat/playlist.m3u8",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Anh Quất - HD2",
+      "type": "flv",
+      "url": "https://gckc0525.edgemaxcdn.org/live/anhquat.flv",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Anh Quất - FHD1",
+      "type": "hls",
+      "url": "https://gckc0525.edgemaxcdn.org/live/anhquathd/playlist.m3u8",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Anh Quất - FHD2",
+      "type": "flv",
+      "url": "https://gckc0525.edgemaxcdn.org/live/anhquathd.flv",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Anh Sói - HD1",
+      "type": "hls",
+      "url": "https://gckc0525.edgemaxcdn.org/live/anhsoi/playlist.m3u8",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Anh Sói - HD2",
+      "type": "flv",
+      "url": "https://gckc0525.edgemaxcdn.org/live/anhsoi.flv",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Anh Sói - FHD1",
+      "type": "hls",
+      "url": "https://gckc0525.edgemaxcdn.org/live/anhsoihd/playlist.m3u8",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Anh Sói - FHD2",
+      "type": "flv",
+      "url": "https://gckc0525.edgemaxcdn.org/live/anhsoihd.flv",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    }
+  ]
+}
