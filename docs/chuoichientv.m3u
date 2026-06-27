@@ -1,0 +1,40 @@
+#EXTM3U
+# Source  : https://live18.chuoichientv.com/
+# Updated : 2026-06-27 19:37 UTC
+# Total   : 7 tran
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/6a3ef94209ffd9785449f9c6.png" group-title="Chuoi Chien TV",[01h30] France vs Serbia
+#EXTVLCOPT:http-referrer=https://live18.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/69dc81c409ffd97854071346.png" group-title="Chuoi Chien TV",[04h00] Croatia vs Ghana
+#EXTVLCOPT:http-referrer=https://live18.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/69dc81c409ffd97854071348.png" group-title="Chuoi Chien TV",[04h00] Panama vs England
+#EXTVLCOPT:http-referrer=https://live18.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/69dc81c409ffd97854071345.png" group-title="Chuoi Chien TV",[06h30] Colombia vs Portugal
+#EXTVLCOPT:http-referrer=https://live18.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/69dc81c409ffd97854071357.png" group-title="Chuoi Chien TV",[06h30] Congo DR vs Uzbekistan
+#EXTVLCOPT:http-referrer=https://live18.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/69dc81c409ffd97854071344.png" group-title="Chuoi Chien TV",[09h00] Algeria vs Austria
+#EXTVLCOPT:http-referrer=https://live18.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/69dc81c409ffd97854071347.png" group-title="Chuoi Chien TV",[09h00] Jordan vs Argentina
+#EXTVLCOPT:http-referrer=https://live18.chuoichientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
+

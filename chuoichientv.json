@@ -1,0 +1,689 @@
+{
+  "id": "chuoichienhfb",
+  "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/chuoichientv.json",
+  "name": "Chuoi Chien TV",
+  "color": "#003A17",
+  "description": "Cap nhat truc tiep tu Chuoi Chien TV",
+  "image": {
+    "url": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/chuoichien.png"
+  },
+  "groups": [
+    {
+      "id": "live",
+      "name": "TRUC TIEP CHUOI CHIEN",
+      "display": "vertical",
+      "grid_number": 2,
+      "channels": [
+        {
+          "id": "6a3ef94209ffd9785449f9c6",
+          "name": "France vs Serbia",
+          "labels": [
+            {
+              "position": "bottom-center",
+              "text": "01h30",
+              "color": "#FF0000",
+              "text_color": "#FFFFFF"
+            },
+            {
+              "position": "top-left",
+              "text": "France",
+              "color": "#80000000",
+              "text_color": "#FFFFFF"
+            },
+            {
+              "position": "top-right",
+              "text": "Serbia",
+              "color": "#80000000",
+              "text_color": "#FFFFFF"
+            }
+          ],
+          "image": {
+            "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/6a3ef94209ffd9785449f9c6.png",
+            "height": 360,
+            "width": 640,
+            "display": "cover"
+          },
+          "type": "single",
+          "display": "thumbnail-only",
+          "sources": [
+            {
+              "id": "src-6a3ef94209ffd9785449f9c6",
+              "name": "Chuoi Chien",
+              "contents": [
+                {
+                  "id": "c-6a3ef94209ffd9785449f9c6",
+                  "name": "France vs Serbia",
+                  "streams": [
+                    {
+                      "id": "6a3ef94209ffd9785449f9c6_0",
+                      "name": "Chuối Bơ - HD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/6a3ef94209ffd9785449f9c6.json"
+                      }
+                    },
+                    {
+                      "id": "6a3ef94209ffd9785449f9c6_1",
+                      "name": "Chuối Bơ - HD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/6a3ef94209ffd9785449f9c6.json"
+                      }
+                    },
+                    {
+                      "id": "6a3ef94209ffd9785449f9c6_2",
+                      "name": "Chuối Bơ - FHD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/6a3ef94209ffd9785449f9c6.json"
+                      }
+                    },
+                    {
+                      "id": "6a3ef94209ffd9785449f9c6_3",
+                      "name": "Chuối Bơ - FHD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/6a3ef94209ffd9785449f9c6.json"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "69dc81c409ffd97854071346",
+          "name": "Croatia vs Ghana",
+          "labels": [
+            {
+              "position": "bottom-center",
+              "text": "04h00",
+              "color": "#FF0000",
+              "text_color": "#FFFFFF"
+            },
+            {
+              "position": "top-left",
+              "text": "Croatia",
+              "color": "#80000000",
+              "text_color": "#FFFFFF"
+            },
+            {
+              "position": "top-right",
+              "text": "Ghana",
+              "color": "#80000000",
+              "text_color": "#FFFFFF"
+            }
+          ],
+          "image": {
+            "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/69dc81c409ffd97854071346.png",
+            "height": 360,
+            "width": 640,
+            "display": "cover"
+          },
+          "type": "single",
+          "display": "thumbnail-only",
+          "sources": [
+            {
+              "id": "src-69dc81c409ffd97854071346",
+              "name": "Chuoi Chien",
+              "contents": [
+                {
+                  "id": "c-69dc81c409ffd97854071346",
+                  "name": "Croatia vs Ghana",
+                  "streams": [
+                    {
+                      "id": "69dc81c409ffd97854071346_0",
+                      "name": "Chuối Chao - HD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071346.json"
+                      }
+                    },
+                    {
+                      "id": "69dc81c409ffd97854071346_1",
+                      "name": "Chuối Chao - HD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071346.json"
+                      }
+                    },
+                    {
+                      "id": "69dc81c409ffd97854071346_2",
+                      "name": "Chuối Chao - FHD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071346.json"
+                      }
+                    },
+                    {
+                      "id": "69dc81c409ffd97854071346_3",
+                      "name": "Chuối Chao - FHD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071346.json"
+                      }
+                    },
+                    {
+                      "id": "69dc81c409ffd97854071346_4",
+                      "name": "Chuối To - HD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071346.json"
+                      }
+                    },
+                    {
+                      "id": "69dc81c409ffd97854071346_5",
+                      "name": "Chuối To - HD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071346.json"
+                      }
+                    },
+                    {
+                      "id": "69dc81c409ffd97854071346_6",
+                      "name": "Chuối To - FHD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071346.json"
+                      }
+                    },
+                    {
+                      "id": "69dc81c409ffd97854071346_7",
+                      "name": "Chuối To - FHD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071346.json"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "69dc81c409ffd97854071348",
+          "name": "Panama vs England",
+          "labels": [
+            {
+              "position": "bottom-center",
+              "text": "04h00",
+              "color": "#FF0000",
+              "text_color": "#FFFFFF"
+            },
+            {
+              "position": "top-left",
+              "text": "Panama",
+              "color": "#80000000",
+              "text_color": "#FFFFFF"
+            },
+            {
+              "position": "top-right",
+              "text": "England",
+              "color": "#80000000",
+              "text_color": "#FFFFFF"
+            }
+          ],
+          "image": {
+            "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/69dc81c409ffd97854071348.png",
+            "height": 360,
+            "width": 640,
+            "display": "cover"
+          },
+          "type": "single",
+          "display": "thumbnail-only",
+          "sources": [
+            {
+              "id": "src-69dc81c409ffd97854071348",
+              "name": "Chuoi Chien",
+              "contents": [
+                {
+                  "id": "c-69dc81c409ffd97854071348",
+                  "name": "Panama vs England",
+                  "streams": [
+                    {
+                      "id": "69dc81c409ffd97854071348_0",
+                      "name": "Chuối Tây - HD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071348.json"
+                      }
+                    },
+                    {
+                      "id": "69dc81c409ffd97854071348_1",
+                      "name": "Chuối Tây - HD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071348.json"
+                      }
+                    },
+                    {
+                      "id": "69dc81c409ffd97854071348_2",
+                      "name": "Chuối Tây - FHD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071348.json"
+                      }
+                    },
+                    {
+                      "id": "69dc81c409ffd97854071348_3",
+                      "name": "Chuối Tây - FHD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071348.json"
+                      }
+                    },
+                    {
+                      "id": "69dc81c409ffd97854071348_4",
+                      "name": "A Ngao - HD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071348.json"
+                      }
+                    },
+                    {
+                      "id": "69dc81c409ffd97854071348_5",
+                      "name": "A Ngao - HD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071348.json"
+                      }
+                    },
+                    {
+                      "id": "69dc81c409ffd97854071348_6",
+                      "name": "A Ngao - FHD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071348.json"
+                      }
+                    },
+                    {
+                      "id": "69dc81c409ffd97854071348_7",
+                      "name": "A Ngao - FHD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071348.json"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "69dc81c409ffd97854071345",
+          "name": "Colombia vs Portugal",
+          "labels": [
+            {
+              "position": "bottom-center",
+              "text": "06h30",
+              "color": "#FF0000",
+              "text_color": "#FFFFFF"
+            },
+            {
+              "position": "top-left",
+              "text": "Colombia",
+              "color": "#80000000",
+              "text_color": "#FFFFFF"
+            },
+            {
+              "position": "top-right",
+              "text": "Portugal",
+              "color": "#80000000",
+              "text_color": "#FFFFFF"
+            }
+          ],
+          "image": {
+            "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/69dc81c409ffd97854071345.png",
+            "height": 360,
+            "width": 640,
+            "display": "cover"
+          },
+          "type": "single",
+          "display": "thumbnail-only",
+          "sources": [
+            {
+              "id": "src-69dc81c409ffd97854071345",
+              "name": "Chuoi Chien",
+              "contents": [
+                {
+                  "id": "c-69dc81c409ffd97854071345",
+                  "name": "Colombia vs Portugal",
+                  "streams": [
+                    {
+                      "id": "69dc81c409ffd97854071345_0",
+                      "name": "Chuối Nhỏ - HD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071345.json"
+                      }
+                    },
+                    {
+                      "id": "69dc81c409ffd97854071345_1",
+                      "name": "Chuối Nhỏ - HD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071345.json"
+                      }
+                    },
+                    {
+                      "id": "69dc81c409ffd97854071345_2",
+                      "name": "Chuối Nhỏ - FHD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071345.json"
+                      }
+                    },
+                    {
+                      "id": "69dc81c409ffd97854071345_3",
+                      "name": "Chuối Nhỏ - FHD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071345.json"
+                      }
+                    },
+                    {
+                      "id": "69dc81c409ffd97854071345_4",
+                      "name": "Trốc Tru - HD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071345.json"
+                      }
+                    },
+                    {
+                      "id": "69dc81c409ffd97854071345_5",
+                      "name": "Trốc Tru - HD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071345.json"
+                      }
+                    },
+                    {
+                      "id": "69dc81c409ffd97854071345_6",
+                      "name": "Trốc Tru - FHD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071345.json"
+                      }
+                    },
+                    {
+                      "id": "69dc81c409ffd97854071345_7",
+                      "name": "Trốc Tru - FHD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071345.json"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "69dc81c409ffd97854071357",
+          "name": "Congo DR vs Uzbekistan",
+          "labels": [
+            {
+              "position": "bottom-center",
+              "text": "06h30",
+              "color": "#FF0000",
+              "text_color": "#FFFFFF"
+            },
+            {
+              "position": "top-left",
+              "text": "Congo DR",
+              "color": "#80000000",
+              "text_color": "#FFFFFF"
+            },
+            {
+              "position": "top-right",
+              "text": "Uzbekistan",
+              "color": "#80000000",
+              "text_color": "#FFFFFF"
+            }
+          ],
+          "image": {
+            "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/69dc81c409ffd97854071357.png",
+            "height": 360,
+            "width": 640,
+            "display": "cover"
+          },
+          "type": "single",
+          "display": "thumbnail-only",
+          "sources": [
+            {
+              "id": "src-69dc81c409ffd97854071357",
+              "name": "Chuoi Chien",
+              "contents": [
+                {
+                  "id": "c-69dc81c409ffd97854071357",
+                  "name": "Congo DR vs Uzbekistan",
+                  "streams": [
+                    {
+                      "id": "69dc81c409ffd97854071357_0",
+                      "name": "Chuối Già - HD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071357.json"
+                      }
+                    },
+                    {
+                      "id": "69dc81c409ffd97854071357_1",
+                      "name": "Chuối Già - HD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071357.json"
+                      }
+                    },
+                    {
+                      "id": "69dc81c409ffd97854071357_2",
+                      "name": "Chuối Già - FHD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071357.json"
+                      }
+                    },
+                    {
+                      "id": "69dc81c409ffd97854071357_3",
+                      "name": "Chuối Già - FHD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071357.json"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "69dc81c409ffd97854071344",
+          "name": "Algeria vs Austria",
+          "labels": [
+            {
+              "position": "bottom-center",
+              "text": "09h00",
+              "color": "#FF0000",
+              "text_color": "#FFFFFF"
+            },
+            {
+              "position": "top-left",
+              "text": "Algeria",
+              "color": "#80000000",
+              "text_color": "#FFFFFF"
+            },
+            {
+              "position": "top-right",
+              "text": "Austria",
+              "color": "#80000000",
+              "text_color": "#FFFFFF"
+            }
+          ],
+          "image": {
+            "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/69dc81c409ffd97854071344.png",
+            "height": 360,
+            "width": 640,
+            "display": "cover"
+          },
+          "type": "single",
+          "display": "thumbnail-only",
+          "sources": [
+            {
+              "id": "src-69dc81c409ffd97854071344",
+              "name": "Chuoi Chien",
+              "contents": [
+                {
+                  "id": "c-69dc81c409ffd97854071344",
+                  "name": "Algeria vs Austria",
+                  "streams": [
+                    {
+                      "id": "69dc81c409ffd97854071344_0",
+                      "name": "Chuối Chao - HD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071344.json"
+                      }
+                    },
+                    {
+                      "id": "69dc81c409ffd97854071344_1",
+                      "name": "Chuối Chao - HD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071344.json"
+                      }
+                    },
+                    {
+                      "id": "69dc81c409ffd97854071344_2",
+                      "name": "Chuối Chao - FHD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071344.json"
+                      }
+                    },
+                    {
+                      "id": "69dc81c409ffd97854071344_3",
+                      "name": "Chuối Chao - FHD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071344.json"
+                      }
+                    },
+                    {
+                      "id": "69dc81c409ffd97854071344_4",
+                      "name": "A Ngao - HD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071344.json"
+                      }
+                    },
+                    {
+                      "id": "69dc81c409ffd97854071344_5",
+                      "name": "A Ngao - HD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071344.json"
+                      }
+                    },
+                    {
+                      "id": "69dc81c409ffd97854071344_6",
+                      "name": "A Ngao - FHD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071344.json"
+                      }
+                    },
+                    {
+                      "id": "69dc81c409ffd97854071344_7",
+                      "name": "A Ngao - FHD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071344.json"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "69dc81c409ffd97854071347",
+          "name": "Jordan vs Argentina",
+          "labels": [
+            {
+              "position": "bottom-center",
+              "text": "09h00",
+              "color": "#FF0000",
+              "text_color": "#FFFFFF"
+            },
+            {
+              "position": "top-left",
+              "text": "Jordan",
+              "color": "#80000000",
+              "text_color": "#FFFFFF"
+            },
+            {
+              "position": "top-right",
+              "text": "Argentina",
+              "color": "#80000000",
+              "text_color": "#FFFFFF"
+            }
+          ],
+          "image": {
+            "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/thumbs/69dc81c409ffd97854071347.png",
+            "height": 360,
+            "width": 640,
+            "display": "cover"
+          },
+          "type": "single",
+          "display": "thumbnail-only",
+          "sources": [
+            {
+              "id": "src-69dc81c409ffd97854071347",
+              "name": "Chuoi Chien",
+              "contents": [
+                {
+                  "id": "c-69dc81c409ffd97854071347",
+                  "name": "Jordan vs Argentina",
+                  "streams": [
+                    {
+                      "id": "69dc81c409ffd97854071347_0",
+                      "name": "Chuối Bơ - HD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071347.json"
+                      }
+                    },
+                    {
+                      "id": "69dc81c409ffd97854071347_1",
+                      "name": "Chuối Bơ - HD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071347.json"
+                      }
+                    },
+                    {
+                      "id": "69dc81c409ffd97854071347_2",
+                      "name": "Chuối Bơ - FHD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071347.json"
+                      }
+                    },
+                    {
+                      "id": "69dc81c409ffd97854071347_3",
+                      "name": "Chuối Bơ - FHD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071347.json"
+                      }
+                    },
+                    {
+                      "id": "69dc81c409ffd97854071347_4",
+                      "name": "Trốc Tru - HD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071347.json"
+                      }
+                    },
+                    {
+                      "id": "69dc81c409ffd97854071347_5",
+                      "name": "Trốc Tru - HD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071347.json"
+                      }
+                    },
+                    {
+                      "id": "69dc81c409ffd97854071347_6",
+                      "name": "Trốc Tru - FHD1",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071347.json"
+                      }
+                    },
+                    {
+                      "id": "69dc81c409ffd97854071347_7",
+                      "name": "Trốc Tru - FHD2",
+                      "remote_data": {
+                        "url": "https://raw.githubusercontent.com/mondo-parallelo/something-iptv/main/stream/69dc81c409ffd97854071347.json"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "notice": {
+    "id": "notice",
+    "link": "https://t.me/",
+    "icon": "https://raw.githubusercontent.com/nghehoang007-wq/HFB321/main/HFB/Thump/chuoichien.png",
+    "closeable": true
+  },
+  "option": {
+    "save_history": false,
+    "save_search_history": false,
+    "save_wishlist": false
+  }
+}
