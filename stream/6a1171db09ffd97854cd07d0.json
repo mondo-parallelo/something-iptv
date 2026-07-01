@@ -1,0 +1,56 @@
+{
+  "stream_links": [
+    {
+      "id": "1",
+      "name": "Max - HD1",
+      "type": "hls",
+      "url": "https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8",
+      "default": true,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Max - HD2",
+      "type": "flv",
+      "url": "https://gckc0525.edgemaxcdn.org/live/max.flv",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Max - FHD1",
+      "type": "hls",
+      "url": "https://gckc0525.edgemaxcdn.org/live/maxhd/playlist.m3u8",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Max - FHD2",
+      "type": "flv",
+      "url": "https://gckc0525.edgemaxcdn.org/live/maxhd.flv",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    }
+  ]
+}
