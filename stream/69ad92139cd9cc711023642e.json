@@ -1,0 +1,56 @@
+{
+  "stream_links": [
+    {
+      "id": "1",
+      "name": "Chuối Chín Chín - HD1",
+      "type": "hls",
+      "url": "https://gckc0525.edgemaxcdn.org/live/chuoi99/playlist.m3u8",
+      "default": true,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Chuối Chín Chín - HD2",
+      "type": "flv",
+      "url": "https://gckc0525.edgemaxcdn.org/live/chuoi99.flv",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Chuối Chín Chín - FHD1",
+      "type": "hls",
+      "url": "https://gckc0525.edgemaxcdn.org/live/chuoi99hd/playlist.m3u8",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Chuối Chín Chín - FHD2",
+      "type": "flv",
+      "url": "https://gckc0525.edgemaxcdn.org/live/chuoi99hd.flv",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    }
+  ]
+}

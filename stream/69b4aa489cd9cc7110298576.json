@@ -1,0 +1,108 @@
+{
+  "stream_links": [
+    {
+      "id": "1",
+      "name": "Chuối Tây - HD1",
+      "type": "hls",
+      "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8",
+      "default": true,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Chuối Tây - HD2",
+      "type": "flv",
+      "url": "https://gckc0525.edgemaxcdn.org/live/chuoitay.flv",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Chuối Tây - FHD1",
+      "type": "hls",
+      "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Chuối Tây - FHD2",
+      "type": "flv",
+      "url": "https://gckc0525.edgemaxcdn.org/live/chuoitayhd.flv",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Quan Vũ - HD1",
+      "type": "hls",
+      "url": "https://gckc0525.edgemaxcdn.org/live/quanvu/playlist.m3u8",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Quan Vũ - HD2",
+      "type": "flv",
+      "url": "https://gckc0525.edgemaxcdn.org/live/quanvu.flv",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Quan Vũ - FHD1",
+      "type": "hls",
+      "url": "https://gckc0525.edgemaxcdn.org/live/quanvuhd/playlist.m3u8",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Quan Vũ - FHD2",
+      "type": "flv",
+      "url": "https://gckc0525.edgemaxcdn.org/live/quanvuhd.flv",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    }
+  ]
+}

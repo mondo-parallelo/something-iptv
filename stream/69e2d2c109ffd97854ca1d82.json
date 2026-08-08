@@ -1,0 +1,56 @@
+{
+  "stream_links": [
+    {
+      "id": "1",
+      "name": "Lá Chanh - HD1",
+      "type": "hls",
+      "url": "https://gckc0525.edgemaxcdn.org/live/lachanh/playlist.m3u8",
+      "default": true,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Lá Chanh - HD2",
+      "type": "flv",
+      "url": "https://gckc0525.edgemaxcdn.org/live/lachanh.flv",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Lá Chanh - FHD1",
+      "type": "hls",
+      "url": "https://gckc0525.edgemaxcdn.org/live/lachanhhd/playlist.m3u8",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Lá Chanh - FHD2",
+      "type": "flv",
+      "url": "https://gckc0525.edgemaxcdn.org/live/lachanhhd.flv",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    }
+  ]
+}

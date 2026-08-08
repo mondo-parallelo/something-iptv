@@ -1,0 +1,82 @@
+{
+  "stream_links": [
+    {
+      "id": "1",
+      "name": "Camry - HD1",
+      "type": "hls",
+      "url": "https://gckc0525.edgemaxcdn.org/live/camry/playlist.m3u8",
+      "default": true,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Camry - HD2",
+      "type": "flv",
+      "url": "https://gckc0525.edgemaxcdn.org/live/camry.flv",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Camry - FHD1",
+      "type": "hls",
+      "url": "https://gckc0525.edgemaxcdn.org/live/camryhd/playlist.m3u8",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Camry - FHD2",
+      "type": "flv",
+      "url": "https://gckc0525.edgemaxcdn.org/live/camryhd.flv",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Nhà Đài - HD1",
+      "type": "hls",
+      "url": "https://gckc0525.edgemaxcdn.org/live/m4x1/playlist.m3u8",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Nhà Đài - HD2",
+      "type": "flv",
+      "url": "https://gckc0525.edgemaxcdn.org/live/m4x1.flv",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    }
+  ]
+}

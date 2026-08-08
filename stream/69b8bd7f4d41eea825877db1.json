@@ -1,0 +1,108 @@
+{
+  "stream_links": [
+    {
+      "id": "1",
+      "name": "BLV Chuối Hột - HD1",
+      "type": "hls",
+      "url": "https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8",
+      "default": true,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "BLV Chuối Hột - HD2",
+      "type": "flv",
+      "url": "https://gckc0525.edgemaxcdn.org/live/chuoihot.flv",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "BLV Chuối Hột - FHD1",
+      "type": "hls",
+      "url": "https://gckc0525.edgemaxcdn.org/live/chuoihothd/playlist.m3u8",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "BLV Chuối Hột - FHD2",
+      "type": "flv",
+      "url": "https://gckc0525.edgemaxcdn.org/live/chuoihothd.flv",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Chuối Chồn - HD1",
+      "type": "hls",
+      "url": "https://gckc0525.edgemaxcdn.org/live/chuoichon/playlist.m3u8",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Chuối Chồn - HD2",
+      "type": "flv",
+      "url": "https://gckc0525.edgemaxcdn.org/live/chuoichon.flv",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Chuối Chồn - FHD1",
+      "type": "hls",
+      "url": "https://gckc0525.edgemaxcdn.org/live/chuoichonhd/playlist.m3u8",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Chuối Chồn - FHD2",
+      "type": "flv",
+      "url": "https://gckc0525.edgemaxcdn.org/live/chuoichonhd.flv",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "stream_links": [
+    {
+      "id": "1",
+      "name": "Chuối Bảy - HD1",
+      "type": "hls",
+      "url": "https://gckc0525.edgemaxcdn.org/live/chuoibay/playlist.m3u8",
+      "default": true,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Chuối Bảy - HD2",
+      "type": "hls",
+      "url": "https://cyber.chuoichien.tv/chuoibay/index.m3u8",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Chuối Bảy - HD3",
+      "type": "flv",
+      "url": "https://gckc0525.edgemaxcdn.org/live/chuoibay.flv",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Chuối Bảy - HD4",
+      "type": "flv",
+      "url": "https://cyber.chuoichien.tv/chuoibay.flv",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Chuối Bảy - SD1",
+      "type": "hls",
+      "url": "https://stream.chuoichien.tv/chuoibay/index.m3u8",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Chuối Bảy - SD2",
+      "type": "flv",
+      "url": "https://stream.chuoichien.tv/chuoibay.flv",
+      "default": false,
+      "request_headers": [
+        {
+          "key": "Referer",
+          "value": "https://api.chuoichientv.com/"
+        }
+      ]
+    }
+  ]
+}
